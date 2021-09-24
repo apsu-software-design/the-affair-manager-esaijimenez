@@ -1,3 +1,9 @@
+//Esai Jimenez
+//9-20-21
+//CSCI 4602
+//Assignment 2: Affair Manager Program
+
+
 export class AffairManager{
     //adds a member by pushing a name and email into an array.
     addMember(name, email){

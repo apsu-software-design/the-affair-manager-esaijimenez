@@ -1,6 +1,6 @@
 //Esai Jimenez
 //9-20-21
-//CSCI 4602
+//CSCI-4602
 //Assignment 2: Affair Manager Program
 
 

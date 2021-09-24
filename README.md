@@ -13,7 +13,7 @@ The below questions should be answered _in detail_ regarding your submission!
 
 
 ##### Approximately how many hours did it take you to complete this assignment? #####
-> At least 24 hours in total.
+> It took me at least 24 hours in total.
 
 
 ##### On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment? #####
